@@ -12,7 +12,7 @@ Purpose
 # Repository Structure
 Windows-Journal
 
-├── daily-notes/          
+├── troubleshooting/          
 ├── powershell/          
 ├── networking/          
 ├── services/            
