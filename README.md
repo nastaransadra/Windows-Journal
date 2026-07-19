@@ -43,7 +43,7 @@ How the solution was tested.
 # Notes
 Extra findings, future improvements.
 
-# Why This Journal Matters***
+# Why This Journal Matters
   - Maintaining a Windows administration journal demonstrates:
   - Strong documentation habits
   - Consistent learning and improvement
